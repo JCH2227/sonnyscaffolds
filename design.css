@@ -1,0 +1,24 @@
+.whiteborder {
+	border: thin solid #FFFFFF;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#i36t {
+	position: absolute;
+	height: 90px;
+	width: 143px;
+	left: 591px;
+	top: 400px;
+	z-index: 1;
+	visibility: hidden;
+}

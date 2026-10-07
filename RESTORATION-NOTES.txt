@@ -1,0 +1,24 @@
+SONNY SCAFFOLDS WEBSITE RESTORATION
+===================================
+
+Target: July 2006 version of www.sonnyscaffolds.com
+Primary homepage capture: 2006-07-09 00:55:27 UTC
+Secondary pages/assets: nearest surviving July 14, 2006 captures
+
+ORIGINAL / RECOVERED
+- index.htm and all nine linked/Popup HTML pages: recovered from Wayback source
+- layout.css and design.css: recovered from Wayback
+- 21 supplied image assets: recovered from Wayback
+
+RECONSTRUCTED
+- images/backext.jpg: original archive asset unavailable; recreated as white repeating background, matching the archived rendering outside the 1024px canvas
+- images/navback.jpg: original archive asset unavailable; recreated by cropping the exact 910x22 region from original images/back.jpg at x=54, y=130, matching the CSS placement
+- global.css: referenced by aboutus.htm, safety.htm and contact.htm but not supplied/preserved here. Reconstructed from the surviving HTML structure. Homepage and product popup styling use the original recovered CSS.
+
+WAYBACK CLEANUP
+- Wayback toolbar/scripts/styles and archive footer comments removed
+- Wayback-rewritten local asset URLs converted back to local relative paths
+- Wayback-wrapped mailto links restored to mailto: links
+
+PUBLICATION NOTE
+The historical pages contain former company contact information and safety material from 2006. If published on the original domain, add a visible historical-archive notice so visitors do not mistake the site for the operating company.
