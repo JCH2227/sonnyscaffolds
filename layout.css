@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Arial Narrow Web";
+    src: url("fonts/arialn.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
 #back {
 	position: absolute;
 	height: 768px;
@@ -145,10 +152,10 @@
 	top: 163px;
 }
 .poptext {
-	font-family: "Arial Narrow";
-	font-size: 13px;
-	color: #000000;
-	font-weight: bold;
+    font-family: "Arial Narrow Web", "Arial Narrow", Arial, sans-serif;
+    font-size: 13px;
+    color: #000000;
+    font-weight: bold;
 }
 #popsdc1 {
 
